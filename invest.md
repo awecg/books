@@ -23,6 +23,11 @@
 ## 说法
 + 投资强周期股有一个常识：在低市盈率的时候卖出，在高市盈率的时候买入。
 + 白云机场17年之后，利润为什么会下滑那么多？
++ 巴菲特的阿尔法（Buffett's Alpha）
+  + 夏普比率 0.76
+  + 1.6：1的廉价杠杆
+  + 主动投资者 activism
+  + It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price.
 
 ## 剑客雪球语录
 + 好运动员是选出来的，不是练出来的。 那为什么还要高强度的练? 是为了选 --01.16

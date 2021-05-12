@@ -1,6 +1,6 @@
 ## 操作参考
 + 潍柴动力 跌破18
-+ 上海机场跌破50
++ 上海机场跌破50  白云机场跌破12
 + 洋河股份重新涨到180
 + 美的跌破80
 
@@ -41,6 +41,9 @@
   + 1.6：1的廉价杠杆
   + 主动投资者 activism
   + It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price.
+
+## 提问
++ 社保基金入市为什么要委托基金公司？交给国家队人才不更好吗？
 
 ## 剑客雪球语录
 + 好运动员是选出来的，不是练出来的。 那为什么还要高强度的练? 是为了选 --01.16
